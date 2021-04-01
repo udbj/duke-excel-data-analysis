@@ -1,0 +1,12 @@
+1. Select delimiter from menu when opening a text file
+2. Double click on any column head to make columns wider
+
+3. To find number of rows in a column, click a cell and press ctrl + ↓
+4. To go to first row, ctrl + ↑
+5. To set precision, select column head, right click, format cells, number, decimal places
+6. To select all rows, select top left cell, ctrl + shift + → and then ctrl + shift + ↓
+7. To sort all data, first select it all, then Data > Sort > Select column name > Select order
+8. To sort using another column within these sorted values, Add Level > Select Column name > Select Order
+(Be careful with the data headers check box for 7 and 8)
+9. To hide columns, select > right click > hide
+10. To unhide, select two adjacent columns > right click > unhide
