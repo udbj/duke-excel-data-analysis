@@ -10,3 +10,9 @@
 (Be careful with the data headers check box for 7 and 8)
 9. To hide columns, select > right click > hide
 10. To unhide, select two adjacent columns > right click > unhide
+
+11. Insert new column by right click > insert
+12. Calculate by selecting cell in new column and type formula after = (i.e =E2/D2, =H2+D2) and press enter
+13. To apply for whole column, double click the + sign at the bottom right of the cell
+14. To set serial numbers for the rows, use formula =A2+1 and double click on +
+15. To omit formula, copy the cell and in paste options, select Values (V)
