@@ -27,6 +27,6 @@
 22. MIN function calculates maximum number in a range
 23. COUNT function counts number of data points in a range
 24. COUNTIF function counts number of data points that satisfy a function  ex. =COUNTIF(E2:E8400,">10000")
-25. POWER is used to calculate powers of numbers i.e =POWER(3,2) OR 3^2
+25. POWER is used to calculate powers of numbers i.e =POWER(3,2) (Or just use 3^2)
 
 26. Rows and columns can be made absolute and relative individually ($G$3, $G3, G$3)
