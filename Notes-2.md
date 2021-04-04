@@ -30,7 +30,7 @@
 
 ```
 ##### Video 5
-8. Approximate matching can be used for numeric cases i.e Translate every number in range 20-29 to 0.03\
+8. Approximate matching can be used for numeric cases i.e Translate every number in range 20-29 to 0.03. The closest number is used.\
 ```
    | E  | F
 -----------------------
@@ -45,3 +45,7 @@
 10 | 40 | 0.05
 ```
 `VLOOKUP(H2, $E$6:$F$10, 2, TRUE)`
+9. If changes are required, only the lookup table needs to be modified. The cells are updated automatically.
+
+##### Video 6
+10. HLOOKUP works similarly, but the lookup table is organised horizontally and the row number is specified in the function instead of column number.
