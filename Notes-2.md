@@ -31,6 +31,7 @@
 ```
 ##### Video 5
 8. Approximate matching can be used for numeric cases i.e Translate every number in range 20-29 to 0.03
+`VLOOKUP(H2, $E$6:$F$10, 2, TRUE)`
 ```
    | E  | F
 -----------------------
