@@ -49,3 +49,6 @@
 
 ##### Video 6
 10. HLOOKUP works similarly, but the lookup table is organised horizontally and the row number is specified in the function instead of column number.
+
+##### Video 7
+11. RANDBETWEEN(lower, upper) function returns a number between the specified bounds(inclusive).
