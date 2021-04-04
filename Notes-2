@@ -1,5 +1,0 @@
-1. Syntax of IF command: IF(condition, value_if_true, value_if_false)
-2. Example: =IF(C2="Critical", "***", "*")
-3. Similarly, for numbers: =IF(F2>1000, 1, 0)
-
-4. IF command can also be nested. Example: =IF(C2="Critical", "***", IF(C2="High","**","*"))
