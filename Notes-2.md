@@ -5,8 +5,9 @@
 4. IF command can also be nested. Example: =IF(C2="Critical", "***", IF(C2="High","**","*"))
 
 5. Optional args are enclosed in square brackets
-6. To replicate the above with a lookup table, write down the values and star ratings in two columns in ascending order. Then go to data > sort and sort the columns.
-7. Next, use the VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+6. Lookup tables are dictionaries, with key value pairs used for translation
+7. To replicate the above with a lookup table, write down the values and star ratings in two columns in ascending order. Then go to data > sort and sort the columns.
+8. Next, use the VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
    - Lookup value is the ordinal value to lookup for
    - table array is the lookup table
    - Col index number is the column number for translated values in the lookup table
