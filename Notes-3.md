@@ -6,4 +6,10 @@
 5. Sheets are referenced in formulas as 'sheet_name'!. Ex: VLOOKUP(H2,'Country Codes'!$A$2:$B$211,2,FALSE)
 
 ##### Video 2
-5. 
+6. To filter data, go to Data > Filtering
+7. The drop down boxes list every unique value in a column
+8. Filtering can be done by selecting the values that need to be shown for each of the columns
+9. To clear all filters, click on 'clear' button next to the Filter button.
+
+##### Video 3
+
