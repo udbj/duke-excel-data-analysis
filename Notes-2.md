@@ -1,9 +1,10 @@
+#####Videos 1 and 2
 1. Syntax of IF command: IF(condition, value_if_true, value_if_false)
 2. Example: =IF(C2="Critical", "***", "*")
 3. Similarly, for numbers: =IF(F2>1000, 1, 0)
-
+#####Video 3
 4. IF command can also be nested. Example: =IF(C2="Critical", "***", IF(C2="High","**","*"))
-
+#####Video 4
 5. Optional args are enclosed in square brackets
 6. Lookup tables are dictionaries, with key value pairs used for translation
 7. To replicate the above with a lookup table, write down the values and star ratings in two columns in ascending order. Then go to data > sort and sort the columns.
@@ -28,7 +29,7 @@
 10 | Not Specified    | *
 
 ```
-
+#####Video 5
 8. Approximate matching can be used for numeric cases i.e Translate every number in range 20-29 to 0.03
 ```
    | E  | F
